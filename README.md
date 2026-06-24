@@ -7,7 +7,7 @@ This project applies Python-based data analytics techniques to an Amazon E-Comme
 
 ## 2. Project Description
 
-This project involves the end-to-end analysis of an Amazon E-Commerce dataset containing product transactions, customer interactions, seller information, inventory levels, ratings, reviews, discounts, returns, and delivery performance data.
+This project involves the end-to-end analysis of an Amazon E-Commerce dataset containing product transactions, customer interactions, seller information, inventory levels, ratings, reviews, discounts, returns, and delivery performance data.The link to the dataset:https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce
 
 The analysis was conducted using Python for data cleaning, exploratory data analysis (EDA), statistical analysis, predictive modeling, and data visualization. Business-focused questions were addressed to identify key performance drivers, operational bottlenecks, customer satisfaction factors, and opportunities for revenue growth.
 
