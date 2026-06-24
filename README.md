@@ -74,7 +74,7 @@ is_returned	Return status
 
 delivery_status	Delivery outcome
 
-Derived Variables
+
 
 ## 4. Objectives and Research Questions
 Project Objectives
